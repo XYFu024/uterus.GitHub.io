@@ -6,6 +6,8 @@
 
 Dieses Projekt ist eine kleine interaktive Projektion, die mit Touchdesigner (TD) und Kinect erstellt wird. Die Hände der Teilnehmer können mit dem Partikelsystem in der Projektion interagieren. Als kleines Objekt im Universum sind die Beziehung und Interaktion zwischen ihm und der Umgebung ebenfalls real und rein. Diese Beziehung beginnt beim Embryo, endet beim Staub und wiederholt sich immer wieder. 
 
+![image](https://user-images.githubusercontent.com/104525708/171257347-d9af41ac-b614-4393-9c74-41ed5dbc6342.png)
+
 ## Umsetzung
 
 ![image](https://user-images.githubusercontent.com/104525708/171254132-8b70dc95-dddf-4538-8dea-6999482985f1.png)
