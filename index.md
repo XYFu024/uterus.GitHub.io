@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+# Uterus
 
-You can use the [editor on GitHub](https://github.com/XYFu024/xyfu.GitHub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![image](https://user-images.githubusercontent.com/104525708/171253758-5cd89ae7-0c9b-4454-a15e-78d0d3482eb9.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Concept
 
-### Markdown
+Dieses Projekt ist eine kleine interaktive Projektion, die mit Touchdesigner (TD) und Kinect erstellt wird. Die Hände der Teilnehmer können mit dem Partikelsystem in der Projektion interagieren. Als kleines Objekt im Universum sind die Beziehung und Interaktion zwischen ihm und der Umgebung ebenfalls real und rein. Diese Beziehung beginnt beim Embryo, endet beim Staub und wiederholt sich immer wieder. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Umsetzung
 
-```markdown
-Syntax highlighted code block
+![image](https://user-images.githubusercontent.com/104525708/171254132-8b70dc95-dddf-4538-8dea-6999482985f1.png)
 
-# Header 1
-## Header 2
-### Header 3
+Dieser Teil ist das Interaktionsmodul. Kinect übermittelt die Positionsinformationen von Bones an TD. Ich habe versucht, das Ganzkörperskelett, den Kopf und die Position der Hände zu verwenden, und die Hände funktionieren am besten. Zu viele Standortinformationen können das Bild unübersichtlich machen. Die Bewegung der Hände scheint am offensichtlichsten, und die Hand ist auch das typischste Symbol der Berührung.
 
-- Bulleted
-- List
+![image](https://user-images.githubusercontent.com/104525708/171254174-9a6c36a7-ac02-4c3b-877d-26637ee3df95.png)
 
-1. Numbered
-2. List
+Dieser Teil ist das Partikelsystem SOP und Kraftfeld. Das mit der Hand bewegte Kraftfeld zieht die Partikel an.
 
-**Bold** and _Italic_ and `Code` text
+![image](https://user-images.githubusercontent.com/104525708/171254205-024613a2-964b-44d6-b53d-59e17e63ad4a.png)
 
-[Link](url) and ![Image](src)
-```
+Der letzte Teil bestimmt den Effekt des Bildes, wie Unschärfe, Farbverlauf, Kontrast und andere Parameter.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Interpretation
 
-### Jekyll Themes
+![image](https://user-images.githubusercontent.com/104525708/171254285-d1935b47-876c-4d1d-b8ad-ecb159533f81.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/XYFu024/xyfu.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Zuerst ist die Gebärmutter fast statisch und sieht aus wie ein Auge, das die Welt beobachtet.
 
-### Support or Contact
+![image](https://user-images.githubusercontent.com/104525708/171254325-14ac5eec-ba9a-414b-a6ad-d30e6a821b7d.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+In dem Moment, in dem sich der Embryo (Teilnehmer) manifestiert, werden die Teilchen verstreut. Wie ein Stein, der in einen ruhigen See geworfen wird.
+
+![image](https://user-images.githubusercontent.com/104525708/171254361-9d996461-e9d5-478d-a5c5-05a57fd9c018.png)
+
+Der Radius des schwarzen Rings im Hintergrund steht im Verhältnis zum Abstand zwischen den Händen.
+
+![image](https://user-images.githubusercontent.com/104525708/171254385-76249860-b4bc-46bd-a7b1-4d4811e75e5f.png)
+
+Schließlich löst sich das Kraftfeld auf und die Teilchen kreisen hin und her wie Staub, der im Universum schwebt.
+
+## Danksagung
+
+Kinect: Markus Walthert
+Tutorium: cutmod, bileam tschepe, Benjamin Carrier
+
+
